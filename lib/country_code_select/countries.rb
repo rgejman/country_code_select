@@ -24,7 +24,7 @@ module CountryCodeSelect
 		["Moldavia", "MD"], ["Monaco", "MC"], ["Mongolia", "MN"], ["Montserrat", "MS"], ["Morocco", "MA"], ["Mozambique", "MZ"], ["Myanmar", "MM"],  
 		["Namibia", "NA"], ["Nauru", "NR"], ["Nepal", "NP"], ["Netherland Antilles", "AN"], ["Netherlands", "NL"], ["Neutral Zone", "NT"],  
 		["New Caledonia (Fr.)", "NC"], ["New Zealand", "NZ"], ["Nicaragua", "NI"], ["Niger", "NE"], ["Nigeria", "NG"], ["Niue", "NU"],  
-		["Norfolk Island", "NF"], ["Northern Mariana Isl.", "MP"], ["Norway", "NO"], ["Oman", "OM"], ["Pakistan", "PK"], ["Palau", "PW"],  
+		["Norfolk Island", "NF"], ["Northern Mariana Isl.", "MP"], ["Norway", "NO"], ["Oman", "OM"], ["Pakistan", "PK"], ["Palestine","PS"], ["Palau", "PW"],  
 		["Panama", "PA"], ["Papua New", "PG"], ["Paraguay", "PY"], ["Peru", "PE"], ["Philippines", "PH"], ["Pitcairn", "PN"], ["Poland", "PL"],  
 		["Polynesia (Fr.)", "PF"], ["Portugal", "PT"], ["Puerto Rico (US)", "PR"], ["Qatar", "QA"], ["Reunion (Fr.)", "RE"], ["Romania", "RO"],  
 		["Russian Federation", "RU"], ["Rwanda", "RW"], ["Saint Lucia", "LC"], ["Samoa", "WS"], ["San Marino", "SM"], ["Saudi Arabia", "SA"],  
